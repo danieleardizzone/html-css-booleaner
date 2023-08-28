@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: serif;
+    text-align: left;
+}
+
+header{
+    background: repeat-x, url(./img/pattern.png), #4EA0FF;
+    height: 100px;
+    margin-bottom: 20px;
+}
+
+section{
+    margin-bottom: 20px;
+}
+
+h1{
+    font-size: 32px;
+}
+
+h4, h6{
+    color: gray;
+    font-weight: normal;
+}
+
+h4 strong{
+    color:#2DAEE6;
+    font-weight: normal;
+}
+
+ol{
+    font-size: 10px;
+}
+
+p strong{
+    font-weight: normal;
+    background-color: yellow;
+}
+
+ul{
+    padding-left: 30px;
+}
+
+.colonna1, .colonna2{
+    width: 25%;
+}
+
+.colonna3{
+    width: 50%;
+}
+
+thead{
+    background-color: #20A9E5;
+}
+
+.rigadispari{
+    background-color: #B1E5F2;
+}
+
+table{
+    padding-left: 10px;
+    padding-right: 10px;
+}
