@@ -52,6 +52,7 @@ thead{
 table{
     padding-left: 10px;
     padding-right: 10px;
+    border-collapse: collapse;
 }
 
 .footer{
